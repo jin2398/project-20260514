@@ -1,2 +1,2 @@
-# project-20260514
+SaticPage to AWS S3
 프로젝트설계 과제
